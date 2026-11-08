@@ -1,0 +1,17 @@
+# 仅允许网页文件进入版本库
+*
+!.gitignore
+!README.md
+!index.html
+!工作台.html
+!manifest.json
+!sw.js
+!icon.svg
+!icon-192.png
+!icon-512.png
+!icon-180.png
+!apple-touch-icon.png
+!favicon.ico
+!favicon-32.png
+!icon.ico
+!seed-data.json
